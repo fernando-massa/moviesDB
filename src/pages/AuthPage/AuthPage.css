@@ -1,0 +1,13 @@
+.page-title {
+    font-family: 'Amaranth', sans-serif;
+}
+
+.vslogo {
+    height: 55vmin;
+    margin: -1rem 0 -3rem 0;
+}
+
+button {
+    margin-top: inherit;
+    margin: -3rem;
+}

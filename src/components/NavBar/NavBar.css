@@ -1,0 +1,14 @@
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-butt {
+    color: rgb(98, 45, 40);
+    text-decoration: none;
+}
+
+.nav-butt:active {
+    text-decoration: underline;
+}
