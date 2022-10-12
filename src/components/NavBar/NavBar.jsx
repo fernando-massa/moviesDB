@@ -11,7 +11,7 @@ export default function NavBar({ user, setUser }) {
 
   return (
     <nav className="nav-bar">
-      <h3>MoviesDB</h3>
+      <h3>🎬 MoviesDB</h3>
       &nbsp; | &nbsp;
       <span>Welcome, {user.name}</span>
       &nbsp; &nbsp;

@@ -17,3 +17,6 @@ export function deleteMovies(id) {
   return sendRequest(`${BASE_URL}/${id}`, 'DELETE')
 }
 
+export function addComment(comment, id) {
+  return sendRequest(`${BASE_URL}/${id}/comments`, 'POST', {comment})
+}
